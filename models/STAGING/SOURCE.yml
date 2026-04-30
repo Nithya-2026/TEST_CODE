@@ -1,5 +1,5 @@
-sources: source_raw_data
-- name: 
+sources: 
+- name: source_raw_data
 database: "{{('SALES')}}"
 schema: RAW_SCHEMA
 tables:
