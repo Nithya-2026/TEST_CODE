@@ -1,0 +1,9 @@
+
+version: 2
+sources:
+- name: Source_table_name
+  database: "{{('SALES')}}"
+  schema: RAW_SCHEMA
+  tables:
+- name: RAW_CUSTOMER_DATA
+

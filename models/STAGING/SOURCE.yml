@@ -1,6 +1,0 @@
-sources: 
-- name: source_raw_data
-database: "{{('SALES')}}"
-schema: RAW_SCHEMA
-tables:
-- name: RAW_CUSTOMER_DATA
